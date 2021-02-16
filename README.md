@@ -52,6 +52,8 @@ Within the project, several approaches were employed, including a convolutional 
 
 There are still possibilities to improve upon the model, e.g. by gathering more training data, employing data augmentation or adding more layers. Still, the accuracy from the test and the tests with specific image samples suggest that the model could be used as part of a mobile or web app such as the one described above.
 
+For a detailed overview of the project results and considerations, see the discussion on [Medium](https://maren-zoller.medium.com/which-dog-breed-are-you-developing-ideas-for-a-dog-breed-detection-app-e0d4b43dde3)
+
 ## <a id="acknowledgements"/> Acknowledgements 
 
 This project is largely based on starter code provided by Udacity. 
